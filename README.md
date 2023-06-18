@@ -1,7 +1,7 @@
 # Zoomcar-clone-project
 The Zoomcar Clone is a web application that replicates the functionality and design of the original Zoomcar website. It allows users to browse and search for available cars, book a car for a specific duration, and manage their bookings.
 
-##Zoomcar Clone
+## Zoomcar Clone
 
 This repository contains a clone of the Zoomcar website implemented using HTML, ReactJS, and Tailwind CSS.
 
@@ -50,6 +50,8 @@ npm start
 
 4.Open the application in your browser:
 http://localhost:3000
+
+### Project code pushed in the master branch
 
 
 ## Screenshots
