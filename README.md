@@ -41,6 +41,7 @@ git clone https://github.com/vignesh-kalimuthu/Zoomcar-clone-project.git
 
 2.Install dependencies:
 cd zoomcar-clone
+
 npm install
 
 
@@ -52,3 +53,15 @@ http://localhost:3000
 
 
 ## Screenshots
+
+
+![Screenshot (3)](https://github.com/vignesh-kalimuthu/Zoomcar-clone-project/assets/78686429/4222f388-c717-436d-9b26-bb2e2cd4459d)
+
+![Screenshot (8)](https://github.com/vignesh-kalimuthu/Zoomcar-clone-project/assets/78686429/2aac3f0d-8fe2-4de0-aeea-9147e0f556dc)
+
+![Screen![Screenshot (9)](https://github.com/vignesh-kalimuthu/Zoomcar-clone-project/assets/78686429/06a511c4-3379-4976-addc-6d75cffa36b1)
+
+![Screenshot (10)](https://github.com/vignesh-kalimuthu/Zoomcar-clone-project/assets/78686429/96cd8d5b-cc5d-4508-81b7-6376e1cb9423)
+
+![Screenshot (11)](https://github.com/vignesh-kalimuthu/Zoomcar-clone-project/assets/78686429/9d94e352-32cd-45c5-aa2f-292156131262)
+
