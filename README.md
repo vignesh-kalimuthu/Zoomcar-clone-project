@@ -36,7 +36,7 @@ Setup and Usage
 To run the Zoomcar Clone locally, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/your-username/zoomcar-clone.git
+git clone https://github.com/vignesh-kalimuthu/Zoomcar-clone-project.git
 
 
 2.Install dependencies:
